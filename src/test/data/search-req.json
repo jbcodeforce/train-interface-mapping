@@ -1,0 +1,11 @@
+{
+    "destinationLocation": "London",
+    "destinationType": "city",
+    "originLocation": "Paris",
+    "travellerList": [
+      {
+        "age": 30
+      }
+    ],
+    "userId": "testuser"
+  }
